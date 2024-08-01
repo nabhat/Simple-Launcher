@@ -1,4 +1,4 @@
-# Simple Launcher
+ # Simple Launcher
 <img alt="Logo" src="graphics/icon.png" width="120" />
 
 Launch your favorite apps quickly. This app gives you the possibility to customize your home screen as you wish for the best user experience.
